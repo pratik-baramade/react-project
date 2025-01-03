@@ -1,0 +1,15 @@
+.container{
+ width: 10%;
+ height: 300px;
+ border: 1px solid #000;
+}
+button {
+    font-size: 20px;
+    height: 60px;
+    background-color: #007bff;
+    color: white;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
